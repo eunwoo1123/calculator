@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-        printf("=== Simple Calculator ===\n");   
+        printf("Good afternoon! I'm eunwoo\n");   
 
         while(1)
         {
